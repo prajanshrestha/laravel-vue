@@ -1,15 +1,12 @@
 <template>
   <div>
-    <index />
+    Add Item Form
   </div>
 </template>
 
 <script>
-import Index from "./Pages/Index.vue";
 export default {
-    components: {
-        Index
-    }
+
 }
 </script>
 
